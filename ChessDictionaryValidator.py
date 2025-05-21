@@ -1,3 +1,10 @@
+st_name=input('enter your name')
+st_usn=input('enter the usn')
+st_sec=input('enter your section')
+print(st_name)
+print(st_usn)
+print(st_sec)
+print('=====================**********========================')
 def is_valid_chess_board(board):
     # Valid board positions (e.g., 1a to 8h)
     rows = ['1','2','3','4','5','6','7','8']
