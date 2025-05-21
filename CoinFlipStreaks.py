@@ -1,3 +1,10 @@
+st_name=input('enter your name')
+st_usn=input('enter the usn')
+st_sec=input('enter your section')
+print(st_name)
+print(st_usn)
+print(st_sec)
+print('=====================**********========================')
 import random
 
 def flip_coin():
