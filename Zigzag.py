@@ -1,3 +1,11 @@
+st_name=input('enter your name')
+st_usn=input('enter the usn')
+st_sec=input('enter your section')
+print('\t\tname:'+st_name)
+print('\t\tusn:'+st_usn)
+print('\t\tsection:'+st_sec)
+print('=====================**********========================')
+
 def zigzag_pattern(rows, columns):
     for i in range(rows):
         for j in range(columns):
