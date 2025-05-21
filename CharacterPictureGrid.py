@@ -1,3 +1,10 @@
+st_name=input('enter your name')
+st_usn=input('enter the usn')
+st_sec=input('enter your section')
+print(st_name)
+print(st_usn)
+print(st_sec)
+print('=====================**********========================')
 # Ask user for grid size
 rows = int(input("Enter number of rows: "))
 cols = int(input("Enter number of columns: "))
