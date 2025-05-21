@@ -1,10 +1,9 @@
-import random
 st_name=input('enter your name')
 st_usn=input('enter the usn')
 st_sec=input('enter your section')
-print(st_name)
-print(st_usn)
-print(st_sec)
+print('\t\tname:'+st_name)
+print('\t\tusn:'+st_usn)
+print('\t\tsection:'+st_sec)
 print('=====================**********========================')
 
 # Dice sides: brain, footprint, shotgun
